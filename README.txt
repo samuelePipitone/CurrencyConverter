@@ -4,3 +4,4 @@ I used this project to learn:
 -Parse and use JSON input with simple.JSON library
 -Create and update a maven project
 -Take input from the user in cmd
+-Make GET calls with HTTP protocol
