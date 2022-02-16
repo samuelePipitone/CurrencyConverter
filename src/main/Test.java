@@ -43,7 +43,8 @@ public class Test {
 			}
 			
 		//Text
-		System.out.println("Select the currency you want to convert");
+		System.out.println("\n");
+		System.out.println("Select the currency you want to convert from");
 		firstCurrency = sc.nextLine();
 		System.out.println("Perfect! got it. Now select the currency you want to convert to");
 		secondCurrency = sc.nextLine();
@@ -71,6 +72,8 @@ public class Test {
 		chooseLoop = sc.nextLine();
 		System.out.println("\n");
 		}	
+		System.out.println("\n");
+		System.out.println("Thank you for use my little application");
 		sc.close();
 	}
 }
